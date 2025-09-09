@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: fastapi-app
-        image: ghcr.io/your-username/fastapi-devops-project:latest
+        image: ghcr.io/DG15062002/fastapi-devops-project:latest
         ports:
         - containerPort: 8000
           name: http
